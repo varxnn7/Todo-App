@@ -1,2 +1,2 @@
 # Todo-App
-An todo app.
+An todo app using Mysql and Php.
